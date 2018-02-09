@@ -10,6 +10,10 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 PRODUCT_PACKAGES += \
     XiaomiDoze
 
+# Display
+PRODUCT_PACKAGES += \
+    liboverlay
+
 # Display calibration
 PRODUCT_PACKAGES += \
     libjni_livedisplay
