@@ -1,5 +1,7 @@
 # Snap
 PRODUCT_PACKAGES += \
+    camera.msm8953 \
+    libmm-qcamera \
     Snap
 
 # Properties
